@@ -1,0 +1,7 @@
+**.dSYM/
+**/*.DS_Store
+classes/
+target/
+.classpath
+.settings/
+.project
